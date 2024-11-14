@@ -1,0 +1,19 @@
+*{
+margin: 0;
+}
+.grid-conteiner{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 50vh 50vh ;
+
+}
+.grid-item{
+  grid-template-columns: ; 
+  border: black solid 1px;
+  
+  text-align: center;
+}
+.butt{ 
+ width: 30%;
+  height: 10vh;
+}
